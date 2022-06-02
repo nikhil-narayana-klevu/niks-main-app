@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import { name, anotherName, anotherAnotherName } from 'niks-app-lib'
+
 function App() {
   return (
     <div className="App">
@@ -15,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React by {name} &amp; {anotherName}, {anotherAnotherName}
+          Have fun with {name} &amp; {anotherName}, {anotherAnotherName}
         </a>
       </header>
     </div>

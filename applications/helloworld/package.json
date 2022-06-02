@@ -1,11 +1,7 @@
 {
-  "name": "niks-main-app",
+  "name": "helloworld",
   "version": "0.1.0",
   "private": true,
-  "workspaces": [
-    "./libraries/*",
-    "./applications/*"
-  ],
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
